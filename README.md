@@ -4,7 +4,10 @@
 ## Main Commitment
 *I will code for at least an hour every day for the next 100 days.*
 
-I will update the (Log)[log.md] with the day's progress and provide a link so that others can see my progress.
+### Day 0: 5th January 2021
 
-#### Start Date
-4th January 2021
+**Today's Progress**: Completed x on "Data Structures and Algorithms"
+
+**Thoughts:** xxx
+
+**Link to work:** xxx
